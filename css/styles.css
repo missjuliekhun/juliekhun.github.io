@@ -7,6 +7,11 @@ body {
 
 }
 
+.projects > a {
+  color: #EE6352;
+  font-size: 40px;
+  font-family: 'VT323', monospace;
+}
 
 
 .julie {
