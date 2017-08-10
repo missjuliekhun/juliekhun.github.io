@@ -16,8 +16,27 @@ h1 {
 }
 
 p {
-  font-family: 'Taviraj', serif;
+  font-family: 'Open Sans', sans-serif;
 
+}
+
+.contact {
+  color: white;
+}
+
+.wrapper {
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+
+}
+
+.img-circle {
+    border-radius: 50%;
+    border-style: outset;
+    border-color: black;
+    height: 155px;
+    width: 155px;
 }
 
 .navigation {
@@ -29,10 +48,38 @@ p {
 }
 
 
-.projects {
-  background-color: yellow;
+h2 {
+  background-color: white;
+  font-family: 'Pacifico', cursive;
+  color: black;
+  text-align: center;
+  font-size: 70px;
+  width: 800px;
+  margin: 0 auto;
 }
 
+ul {
+  text-align: left;
+  background-color: white;
+}
+
+li {
+  background-color: white;
+  text-align: left;
+  width: 700px;
+
+
+}
+
+.project {
+  font-size: 20px;
+  background-color: white;
+  width: 700px;
+}
+
+
+
 footer {
-  background-color: green;
+  background-color: black;
+  color: white;
 }
