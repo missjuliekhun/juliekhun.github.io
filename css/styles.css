@@ -1,12 +1,23 @@
 
 body {
-  background-color: blue;
+  background-color: black;
+
 }
 
 h1 {
-  font-size: 36px;
+  background-color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 133px;
   position: relative;
   text-align: center;
+  margin: 0 auto;
+  /*padding-bottom: -20px;*/
+
+}
+
+p {
+  font-family: 'Taviraj', serif;
+
 }
 
 .navigation {
@@ -14,8 +25,9 @@ h1 {
 }
 
 .aboutme {
-  background-color: orange;
+  background-color: white;
 }
+
 
 .projects {
   background-color: yellow;
