@@ -1,7 +1,6 @@
-
 body {
-  /*background-image: url("../pics/redback.png")*/
-background-color: white;
+  background-color: black;
+
 }
 
 h1 {
@@ -15,17 +14,8 @@ h1 {
 
 }
 
-<<<<<<< HEAD
-.projects > a {
-  color: #EE6352;
-  font-size: 40px;
-  font-family: 'VT323', monospace;
-}
-=======
 p {
   font-family: 'Open Sans', sans-serif;
-  text-align: justify;
->>>>>>> a64437e979ac158b250ebf6a8e903f52e35f7b55
 
 }
 
@@ -84,4 +74,11 @@ li {
   font-size: 20px;
   background-color: white;
   width: 700px;
+}
+
+
+
+footer {
+  background-color: black;
+  color: white;
 }
