@@ -1,7 +1,7 @@
 
 body {
-  background-color: black;
-
+  /*background-image: url("../pics/redback.png")*/
+background-color: white;
 }
 
 h1 {
@@ -17,6 +17,7 @@ h1 {
 
 p {
   font-family: 'Open Sans', sans-serif;
+  text-align: justify;
 
 }
 
@@ -75,11 +76,4 @@ li {
   font-size: 20px;
   background-color: white;
   width: 700px;
-}
-
-
-
-footer {
-  background-color: black;
-  color: white;
 }
