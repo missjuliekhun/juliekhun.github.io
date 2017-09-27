@@ -19,6 +19,16 @@ p {
   font-size: 25px;
 }
 
+.aboutme-skills {
+  font-family: 'Amatic SC', cursive;
+  /*font-family: 'Comfortaa', cursive;*/
+  /*font-family: 'Dancing Script', cursive;*/
+font-size: 40px;
+margin: 0 auto;
+
+
+}
+
 .contact {
   color: white;
 }
